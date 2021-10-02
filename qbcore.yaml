@@ -452,7 +452,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-drugs
     ref: main
-    src: https://github.com/qbcore-framework/qb-drugs
+    src: https://github.com/sml4real/qb-drugs
 
   - action: download_github
     dest: ./resources/[qb]/qb-builderjob
